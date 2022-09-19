@@ -31,7 +31,8 @@ To implement the Page Object Model using Selenium Webdriver, you'll need to take
 ![New-project](/pictures/config.properties%20and%20structure.png) 
 4. Setting up Base class. All classes extend the base class. This is how your base class should be structured;
 
-'''package BaseClass;
+'''
+package BaseClass;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
