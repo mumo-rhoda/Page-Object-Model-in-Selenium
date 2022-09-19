@@ -24,7 +24,8 @@ To implement the Page Object Model using Selenium Webdriver, you'll need to take
 1. Create a New Maven Project as shown below:
 ![New-project](/pictures/newproject1.png) 
 *A new maven project and latest JDK version.*
-2. Make sure your dependecies are well set as shown below: All dependeices can be found in ![Pom-Depedencies](/pictures/pomdependencies.png)
+2. Make sure your dependecies are well set as shown below: All dependeices can be found in [ Maven-repository](https://mvnrepository.com/)
+ ![Pom-Depedencies](/pictures/pomdependencies.png)
 *Selenium dependency, webDriver Manager dependency.*
 3. Come up with clear structure and configure the static properties as shown below;
 ![New-project](/pictures/config.properties%20and%20structure.png) 
